@@ -1,4 +1,5 @@
 # Book Recommendation System through User-based Collaborative Filtering Method
+### Kocaeli University Software Laboratory I Project 1
 Book recommendation system through user-based collaborative filtering approach with Java, MySQL, JDBC, Book-Crossing dataset and ICEpdf library.
 User-based collaborative filtering is a mean of recommendation based on users past behavior through measure the similarity between target users and other users.
 
